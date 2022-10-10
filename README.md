@@ -1,18 +1,5 @@
 ### <div align="center">I'm Ryan, a full-time full-stack developer from Philadelphia 👨‍💻</div>  
   
-
-- 💻 Currently working on creating a number of TUIs  
-  
-
-- 🌱 I’m currently learning Rust, Next.Js and GraphQL  
-  
-
-- ❓ Ask me about anything related to MERN, .NET Core and related technologies  
-  
-
-- ⚡ Fun fact: Enjoy living in a terminal if possible  
-  
-
 <br/>  
 
 
